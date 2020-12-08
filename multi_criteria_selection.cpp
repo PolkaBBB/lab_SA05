@@ -1,3 +1,6 @@
+
+// Вариант №3
+
 #include <iostream>
 #include <algorithm>
 #include <iomanip>
